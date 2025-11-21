@@ -9,3 +9,7 @@ print("name:", name)
 print("pronouns:", pronouns)
 print(f"One of my absolute favorite movies is '{favorite_movie}'. I just watched it recently and it's always amazing.")
 print(f"one of my favorite foods is {favorite_food}. Though very basic, it's an absolute classic.")
+
+
+
+print("its me Lingchen")
